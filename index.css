@@ -1,0 +1,22 @@
+/* BODY */
+
+.li-food {
+    background-color: red;
+}
+
+.li-food .red {
+    color: red;
+}
+
+.li-food .green {
+    color: green;
+}
+
+.li-food .blue {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+
+}
